@@ -1,0 +1,5 @@
+# VM state — tens of GB. Never commit this.
+.colima/
+.colima_backups/
+
+.DS_Store
